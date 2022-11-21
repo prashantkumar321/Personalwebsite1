@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Prashabt's Personal Site </title>
+</head>
+
+<body>
+  <img src="channels4_profile.jpg" alt="Prashant profile pic">
+  <h1> Prashant Kumar</h1>
+  <p><em>Software Engineer</em></p>
+  <p>I am a Software Engineer and Python developer.I love travelling and doing drama is my fav. Part</p>
+  <p>This is My a Demo Python Project name is <strong><a href="https://pixe.la/v1/users/prashantkumar/graphs/kumar123.html">The Habbit Tracking</a></strong></p>
+  <hr />
+  <h3>Education of Mine</h3>
+  <ul>
+    <li>I have graduated in B.Tech department of CSE</li>
+    <li>University was Galgotias Univeristy, Greater Noida,U.P</li>
+  </ul>
+  <hr>
+  <h3>Registration Page</h3>
+  <a href="YoutubePage.html">Click Here</a>
+  <br>
+  <hr>
+  <h3>About My Social Life</h3>
+  <ul>
+    <li><p>so I wanna tell you that I aslo like to make vlogs for youtube ani like to travels around so i shoot in my camera and share with on youtube so</p></li>
+    <br>
+    <li><p>if you like to see here is my a video i am attaching</p></li>
+  </ul>
+  <iframe width="350" height="200" src="https://www.youtube.com/embed/undb4cquW3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+  <a href="Hobbies.html">My Hobbies</a>
+  <br /><br>
+  <a href="Contactdetails.html">Contact me</ah3
+    <br><br>
+    <hr>
+  <h3>My Social Media profile</h3>
+  <a href="https://www.linkedin.com/in/prashant-kumar-singh-483814179" target="_main"><img src="Linkedin-Logo.jpg" alt="Linkedin" height="50"</a>
+  <br>
+  <a href="https://www.youtube.com/channel/UCbyORYKnqcnAlPMAcXElVCg/videos"><img src="youtube.jpg" alt="youtube" height="50"</a>
+  <br><br>
+  <h3>Thanks</h3>
+
+
+</body>
+
+</html>
